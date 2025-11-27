@@ -1,5 +1,6 @@
 #include <iostream>
 #include "MyVector.h"
+#include "MyVector.cpp"
 
 
 void test1() {
